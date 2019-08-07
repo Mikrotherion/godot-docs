@@ -934,6 +934,7 @@ MessageLabel
 -  *Text* : ``Dodge the Creeps!``
 -  *Layout* : "HCenter Wide"
 -  *Align* : "Center"
+-  *AutoWrap* : "On"
 
 StartButton
 ~~~~~~~~~~~
